@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anshika Trivedi</h1>
 <h3 align="center">A web developer from India</h3>
-<img align="right" alt="NEtwoa kharab hai" width="300px"src="https://i.pinimg.com/originals/41/5d/4c/415d4c7290df94be36e1a2df14aacef4.gif">
+<img align="right" alt="NEtwoa kharab hai" width="270px"src="https://i.pinimg.com/originals/41/5d/4c/415d4c7290df94be36e1a2df14aacef4.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshikatrivedi22&label=Profile%20views&color=0e75b6&style=flat" alt="anshikatrivedi22" /> </p>
 
 - 🌱 I’m currently learning **C, C++, Java, HTML, CSS, JS, DSA, firebase, MySQL, AWS, Python**
